@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasamba
+- 👋 Hi, I’m Yaniv (@hasamba)
 - 👀 I’m interested in Cyber Security, Computers, CTF's
 - 🌱 I’m currently learning Cyber Security Specialist 
 
