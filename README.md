@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yaniv (@hasamba)
-- 👀 I’m interested in Cyber Security, Computers, CTF's
-- 🌱 I’m currently learning Cyber Security Specialist 
+- 👀 I’m Passionate about Cyber Security, Digital Forensics, Malware Analysis, CTI & OSINT
 
 
 <!---
